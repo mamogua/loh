@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>LEGO_MAGAZIN</title>
+	<link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Karla&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class = "header">
+        <div class = "header__logo">
+            <img src="https://comicbook.com/wp-content/uploads/sites/4/2024/05/8c340a26-1de3-49a7-b145-8fae8cbe9c06.jpg" alt="logo">
+        </div>
+    <nav>
+        <ul class = "nav">
+            <li class = "nav__item"><a href="https://www.lego.com/uk-ua" class = "nav__link">Для дому</a></li>
+            <li class = "nav__item"><a href="https://www.lego.com/uk-ua" class = "nav__link">Продукт</a></li>
+            <li class = "nav__item"><a href="https://www.lego.com/uk-ua" class = "nav__link">Блог</a></li>
+            <li class = "nav__item"><a href="https://www.lego.com/uk-ua" class = "nav__link">Ми</a></li>
+            <li class = "nav__item"><a href="https://www.lego.com/uk-ua" class = "nav__link">Контакти</a></li>
+            <li class = "nav__item"><a href="https://www.lego.com/uk-ua" class = "nav__link">Гід</a></li>
+            <li class = "nav__item"><a href="https://www.lego.com/uk-ua" class = "nav__link">Покупка</a></li>
+        </ul>
+    </nav>
+    </div>
+    <div class = "banner">
+        <div class = "banner__background">
+       
+        <h3 class = "banner__prehead"></h3>
+        <h1 class = "banner__head">LEGO TECHNIC</h1>
+        <h2 class = "banner__underhead_first">Найбільший асортимент LEGO в Україні.</h2>
+        
+        
+            <h3 class = "banner__underhead_second">Ознайомтеся з нашими продуктами</h3>
+        </div>
+    </div>
+    <div class="text__block">
+        <h1 class = "text__block_head">Найкращі набори <br>Кращім покупцям</h1>
+        <p class = "text__block_p">Маємо тисячі LEGO наборів на вибір <br>Все для наших любих покупців від постачальників якісного пластику<br> Створено, щоб насолоджуватися</p>
+        <a href="#" class="text__block_link">Далі</a>
+    </div>
+    <div class="mugs__block">
+        <div class="mugs__block_head">
+            <h3><span>Товар</span></h3>
+        </div>
+        <div class="image__mug">
+            <div class="image__mug__block">
+                <img src="https://i5.walmartimages.com/asr/b19dc46b-a2e3-4c5d-a523-2848f321e263.2d2b5a86c56ed7f6e991be47c340dc45.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF" alt="Pink_premium_ceramic">
+                <h3 class="image__mug__block_item">Grave Digger</h3>
+                <h4 class = "image__mug__block_price">$ 99.00 USD</h4>
+            </div>
+            <div class="image__mug__block">
+                <img src="https://playzone.com.ua/image/cache/data/lego/technic/2021/01/42119-box-1000x750.jpg" alt="Golder_designers_Mug">
+                <h3 class="image__mug__block_item">Jam Max</h3>
+               <h4 class = "image__mug__block_price" > <span class = "new_price">$50.00</span> <span class = old_price>$ 69.00 USD</span></h4>
+                
+            </div>
+        </div>
+    </div>
+    
+    <div class="mugs__block">
+        <div class="mugs__block_head">
+            <h3><span>Ще більше LEGO</span></h3>
+        </div>
+        <div class="image__mug Featured__Mugs_Line">
+            <div class="image__mug__block Featured__Mugs_Size">
+                <img src="https://newtime.ua/image/import/catalog/LEGO/Lego-Technic/LEGO-Technic-Peredvizhnoy-kran/blokovii-konstruktor-lego-technic-peresuvnii-kran-42108.webp" alt="Red Love Cup">
+                <h3 class="image__mug__block_item">Red Love Cup</h3>
+                <h4 class = "image__mug__block_price" > <span class = "new_price">$25.00</span> <span class = old_price>$ 37.00 USD</span></h4>
+            </div>
+            <div class="image__mug__block Featured__Mugs_Size">
+                <img src="https://buildandplay.com.au/wp-content/uploads/42144_Box1_v29.jpg" alt="Black Tea Cup">
+                <h3 class="image__mug__block_item">Black Tea Cup</h3>
+                <h4 class = "image__mug__block_price" > <span class = "new_price">$15.00</span> <span class = old_price>$ 29.00 USD</span></h4>
+            </div>
+            <div class="image__mug__block Featured__Mugs_Size">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRcZeZVikz9MrMd959OCfQtrqOC-MpnkUsIg&s" alt="B&W Essentials Mug">
+                <h3 class="image__mug__block_item">Golder Designers Mug</h3>
+                <h4 class = "image__mug__block_price">$ 99.00 USD</h4>
+            </div>
+        </div>
+        <div class="image__mug Featured__Mugs_Line">
+            <div class="image__mug__block Featured__Mugs_Size">
+                <img src="https://www.bankeebricks.ph/21387-home_default_2x/lego-technic-42204-fast-and-furious-toyota-supra-mk4-age-9-building-blocks-2025-810pcs-multicolor.jpg" alt="Winter Style Mug">
+                <h3 class="image__mug__block_item">Winter Style Mug</h3>
+                <h4 class = "image__mug__block_price">$ 25.00 USD</h4>
+            </div>
+            <div class="image__mug__block Featured__Mugs_Size">
+                <img src="https://gear.koenigsegg.com/wp-content/uploads/2024/08/Jesko-White_1.jpg" alt="Ceramic Tea">
+                <h3 class="image__mug__block_item">Ceramic Tea</h3>
+                <h4 class = "image__mug__block_price">$ 46.00 USD</h4>
+            </div>
+            <div class="image__mug__block Featured__Mugs_Size">
+                <img src="https://www.bankeebricks.ph/21133-home_default_2x/lego-technic-42199-monster-jam-digatron-pull-back-age-7-building-blocks-2025-218pcs-multicolor.jpg" alt="No Handle Bar Cup">
+                <h3 class="image__mug__block_item">No Handle Bar Cup</h3>
+                <h4 class = "image__mug__block_price">$ 34.00 USD</h4>
+            </div>
+        </div>
+        <div class="image__mug Featured__Mugs_Line">
+            <div class="image__mug__block Featured__Mugs_Size">
+                <img src="https://www.bankeebricks.ph/21381-home_default_2x/lego-technic-42203-tipping-dump-truck-age-9-building-blocks-2025-462pcs-multicolor.jpg" alt="Espresso Cup by Mugs.co">
+                <h3 class="image__mug__block_item">Espresso Cup by Mugs</h3>
+                <h4 class = "image__mug__block_price">$ 25.00 USD</h4>
+            </div>
+            <div class="image__mug__block Featured__Mugs_Size">
+                <img src="https://chudo-ostriv.com.ua/media/catalog/product/cache/69f449c6a885d8cc507689b71e0a4e43/b/o/boc317630_14.jpg" alt="Pink Premium Ceramic">
+                <h3 class="image__mug__block_item">Pink Premium Ceramic</h3>
+                <h4 class = "image__mug__block_price">$ 99.00 USD</h4>
+            </div>
+            <div class="image__mug__block Featured__Mugs_Size">
+                <img src="https://scdn.comfy.ua/89fc351a-22e7-41ee-8321-f8a9356ca351/https://cdn.comfy.ua/media/catalog/product/4/2/42150_primary_image_2.jpg/w_600" alt="B&W Essentials Mug">
+                <h3 class="image__mug__block_item">Golder Designers Mug</h3>
+                <h4 class = "image__mug__block_price">$ 34.00 USD</h4>
+            </div>
+        </div>
+    </div>
+    <div class="mugs__block_head buy_2_head ">
+        
+    </div>
+   
+        </div>
+        
+    </div>
+    <div class="banner__two">
+        <img src="image/banner.jpg" alt="banner">
+    </div>
+    <div class="mugs__block_head Behind__head">
+        <h3>За кожною чашкою своя істория</h3>
+    </div>
+    <div class="behind__container">
+        <div class="behind__container__item">
+            <img src="https://cdn11.bigcommerce.com/s-360jkouzn1/images/stencil/1280x1280/products/53823/392930/lego-technic-monster-jam-thunderroarus-pull-back__98726.1735601115.png?c=1" alt="behind_1">
+            <h2 class="behind__container_head">Перевірка якості пластику: чому коричневий пластик так часто ламається?</h2>
+            <p class="behind__container_text">Висновок експертів з цього приводу</p>
+            <p class="behind__container_mounth">October 9, 2018</p>
+        </div>
+        <div class="behind__container__item">
+            <img src="https://www.farmers.co.nz/INTERSHOP/static/WFS/Farmers-Shop-Site/-/Farmers-Shop/en_NZ/product/67/93/128/6793128_00_W500_H652.jpg?lastmodified=202302172221026" alt="behind_2">
+            <h2 class="behind__container_head">Як довго набор їде до Рівного?</h2>
+            <p class="behind__container_text">Висновок експертів з цього приводу</p>
+            <p class="behind__container_mounth">October 9, 2018</p>
+        </div>
+        <div class="behind__container__item">
+            <img src="https://images.prom.ua/5118115944_w640_h640_5118115944.jpg" alt="behind_3">
+            <h2 class="behind__container_head">Останні дослідження показують, що люди, які багато збирають lego, виробляється уважність і дрібна маторіка рук.</h2>
+            <p class="behind__container_text">Висновок експертів з цього приводу</p>
+            <p class="behind__container_mounth">October 9, 2018</p>
+        </div>
+    </div>
+   <div class = "сontainer__coffee__updafe">
+       <h3 class="title">Зареєструйтеся та отримайте безкоштовні пакетики кави</h3>
+       <h1 class="coffee__update_head">Lego.com</h1>
+       <div class="coffee__update_btn">
+           <div class="coffee__update_btn_right">
+               <h3 class="coffee__update_btn_right_link">customer @legotechnic.com</h3>
+           </div>
+           <div class="coffee__update_btn_left">
+            <h3 class="coffee__update_btn_left_link">subscribe</h3>
+           </div>
+       </div>
+   </div>
+   <footer>
+    <div class="footer__container">
+        <div class="first_colomn">
+            <img src="https://comicbook.com/wp-content/uploads/sites/4/2024/05/8c340a26-1de3-49a7-b145-8fae8cbe9c06.jpg" alt="logo">
+            <p class="first_colomn_text">Постачання найкращої кави з 1996 року.<br> Від кавоманів до справжніх гурманів</p>
+            <p class="first_colomn_undertext">LEGO_TEHNIC. © 1996</p>
+        </div>
+        <div class="second_colomn">
+            <h3 class="second_colomn_head">Menu</h3>
+                <ul class = "nav">
+                    <li class = "second__colomn_item"><a href="" class = "second__colomn__link">Home</a></li>
+                    <li class = "second__colomn__item"><a href="" class = "second__colomn__link">Our product</a></li>
+                    <li class = "second__colomn__item"><a href="" class = "second__colomn__link">About</a></li>
+                    <li class = "second__colomn__item"><a href="" class = "second__colomn__link">Contact</a></li>
+                    <li class = "second__colomn__item"><a href="" class = "second__colomn__link">Styleguide</a></li>
+                </ul>
+        </div>
+        <div class="second_colomn">
+            <h3 class="second_colomn_head">Follow us</h3>
+                <ul class = "nav">
+                    <li class = "second__colomn_item"><a href="" class = "second__colomn__link">Facebook</a></li>
+                    <li class = "second__colomn__item"><a href="" class = "second__colomn__link">Instagram</a></li>
+                    <li class = "second__colomn__item"><a href="" class = "second__colomn__link">Pinterest</a></li>
+                    <li class = "second__colomn__item"><a href="" class = "second__colomn__link">Twitter</a></li>
+                </ul>
+        </div>
+        <div class="fourth_colomn">
+            <h3 class="second_colomn_head">Contact us</h3>
+                <h3 class="fourth_colomn__head">We’re Always Happy to Help</h3>
+                <p class="fourth_colomn__email">us@coffeestyle.io</p>
+                <p class="fourth_colomn_undertext">Powered by Webflow</p>
+        </div>
+    </div>
+   </footer>
+
+</body>
+</html>
